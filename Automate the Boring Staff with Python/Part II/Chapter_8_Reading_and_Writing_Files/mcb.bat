@@ -1,0 +1,1 @@
+@pyw.exe D:\Automation\Automate the Boring Staff with Python\Part II\Chapter_8_Reading_and_Writing_Files\mcb.pyw %*
